@@ -1,16 +1,42 @@
 
+## 🚀 Hi, I'm Sadikshya!
 
-<!--
-**sadee09/sadee09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Driven and optimistic computer engineer with a passion for continuous learning and growth.
+Experienced in **AI/ML and game development** with a strong foundation in **programming, problem-solving, and project management**.
+Dedicated to delivering **impactful results** through **innovative solutions** and **collaborative teamwork**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I Work On
+
+* AI & Machine Learning systems
+* Natural Language Processing
+* Social Computing
+* Game development in Unity
+* Real-world problem solving with code
+
+---
+
+### 📊 GitHub Stats
+
+![Full Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sadee09&theme=github_dark)
+
+![Profile Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadee09&theme=github_dark)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sadee09&theme=github-dark&hide_border=true)
+
+
+---
+
+### 📫 Let’s Connect
+
+🌐 Personal Blog:
+`https://sadee09.github.io/personal-blog/`
+
+📧 Email: 
+`sgyawa5@lsu.edu`
+
+💼 LinkedIn:
+`https://www.linkedin.com/in/sadikshya-g-9b81801b1/`
+
+---
