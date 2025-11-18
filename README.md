@@ -23,8 +23,6 @@ Dedicated to delivering **impactful results** through **innovative solutions** a
 
 ![Profile Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sadee09&theme=github_dark)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=sadee09&theme=github-dark&hide_border=true)
-
 
 ---
 
