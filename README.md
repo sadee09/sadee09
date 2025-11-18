@@ -1,7 +1,7 @@
 
 ## Hi, I'm Sadikshya! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-Experienced in **AI/ML and product development** with a strong foundation in **programming, problem-solving, and project management**, I'm passionate for continuous learning and growth. I am dedicated to delivering **impactful results** through **innovative solutions** and **collaborative teamwork**.
+Experienced in **AI/ML, product and game development** with a strong foundation in **programming, problem-solving, and project management**, I'm passionate for continuous learning and growth. I am dedicated to delivering **impactful results** through **innovative solutions** and **collaborative teamwork**.
 
 ---
 
