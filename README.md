@@ -12,7 +12,6 @@ Experienced in **AI/ML, product and game development** with a strong foundation 
 * Social Computing
 * Product Management
 * Game Development
-* Real-world problem solving with code
 
 ---
 
