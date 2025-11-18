@@ -10,7 +10,8 @@ Experienced in **AI/ML and product development** with a strong foundation in **p
 * AI & Machine Learning systems
 * Natural Language Processing
 * Social Computing
-* Game development in Unity
+* Product Management
+* Game Development
 * Real-world problem solving with code
 
 ---
