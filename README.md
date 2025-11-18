@@ -1,9 +1,7 @@
 
 ## 🚀 Hi, I'm Sadikshya!
 
-Driven and optimistic computer engineer with a passion for continuous learning and growth.
-Experienced in **AI/ML and game development** with a strong foundation in **programming, problem-solving, and project management**.
-Dedicated to delivering **impactful results** through **innovative solutions** and **collaborative teamwork**.
+Experienced in **AI/ML and game development** with a strong foundation in **programming, problem-solving, and project management**, I'm passionate for continuous learning and growth. I am dedicated to delivering **impactful results** through **innovative solutions** and **collaborative teamwork**.
 
 ---
 
