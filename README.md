@@ -28,13 +28,8 @@ Dedicated to delivering **impactful results** through **innovative solutions** a
 
 ### 📫 Let’s Connect
 
-🌐 Personal Blog:
-`https://sadee09.github.io/personal-blog/`
-
-📧 Email: 
-`sgyawa5@lsu.edu`
-
-💼 LinkedIn:
-`https://www.linkedin.com/in/sadikshya-g-9b81801b1/`
+🌐 [Personal Blog](https://sadee09.github.io/personal-blog/)  
+📧 [Email](mailto:sgyawa5@lsu.edu)  
+💼 [LinkedIn](https://www.linkedin.com/in/sadikshya-g-9b81801b1/)
 
 ---
